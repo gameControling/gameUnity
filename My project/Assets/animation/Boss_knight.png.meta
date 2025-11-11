@@ -1,0 +1,1218 @@
+fileFormatVersion: 2
+guid: af3913db76da58641b7b8d99f6450bac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1664987915449716281
+    second: Boss_knight_0
+  - first:
+      213: -6006125769021747596
+    second: Boss_knight_1
+  - first:
+      213: 5608482036033984925
+    second: Boss_knight_2
+  - first:
+      213: 1213371517202634040
+    second: Boss_knight_3
+  - first:
+      213: -3294914105411268521
+    second: Boss_knight_4
+  - first:
+      213: 5261240805179131949
+    second: Boss_knight_5
+  - first:
+      213: -8829106229379633556
+    second: Boss_knight_6
+  - first:
+      213: -2915917834305146693
+    second: Boss_knight_7
+  - first:
+      213: 3948342878361580196
+    second: Boss_knight_8
+  - first:
+      213: 2031049130035384642
+    second: Boss_knight_9
+  - first:
+      213: -4069120619160952594
+    second: Boss_knight_10
+  - first:
+      213: 4059106756661396879
+    second: Boss_knight_11
+  - first:
+      213: 954253393971704462
+    second: Boss_knight_12
+  - first:
+      213: 8776577148033570599
+    second: Boss_knight_13
+  - first:
+      213: 2709384500077010689
+    second: Boss_knight_14
+  - first:
+      213: 8191252731047855080
+    second: Boss_knight_15
+  - first:
+      213: 912166164692270415
+    second: Boss_knight_16
+  - first:
+      213: 4105679124823474494
+    second: Boss_knight_17
+  - first:
+      213: -942016065294115158
+    second: Boss_knight_18
+  - first:
+      213: -4104999515793734369
+    second: Boss_knight_19
+  - first:
+      213: -2781681501889930203
+    second: Boss_knight_20
+  - first:
+      213: 7569747712203464529
+    second: Boss_knight_21
+  - first:
+      213: -7110033589830884126
+    second: Boss_knight_22
+  - first:
+      213: -6465883128392518428
+    second: Boss_knight_23
+  - first:
+      213: -6613818150256015335
+    second: Boss_knight_24
+  - first:
+      213: -3870107375225596829
+    second: Boss_knight_25
+  - first:
+      213: 5287294133943706631
+    second: Boss_knight_26
+  - first:
+      213: 6900968631638005879
+    second: Boss_knight_27
+  - first:
+      213: -1913665351535198208
+    second: Boss_knight_28
+  - first:
+      213: -8157886302209036133
+    second: Boss_knight_29
+  - first:
+      213: -7617243560893710626
+    second: Boss_knight_30
+  - first:
+      213: 1428152059155549688
+    second: Boss_knight_31
+  - first:
+      213: -3574051563631907196
+    second: Boss_knight_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_knight_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 410
+        width: 193
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ec2b700b93b1710800000000000000
+      internalID: 1664987915449716281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 413
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e83255f64f5aca0800000000000000
+      internalID: -6006125769021747596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 412
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9917fe52b455dd40800000000000000
+      internalID: 5608482036033984925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 342
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835907757f2c6d010800000000000000
+      internalID: 1213371517202634040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 342
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750998d041d1642d0800000000000000
+      internalID: -3294914105411268521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 342
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d280e7613aea30940800000000000000
+      internalID: 5261240805179131949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 350
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e63a9b9a6b87580800000000000000
+      internalID: -8829106229379633556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 351
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0f30ccd249887d0800000000000000
+      internalID: -2915917834305146693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 345
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a27f2cbde45bc630800000000000000
+      internalID: 3948342878361580196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 306
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241102d3c6cbf2c10800000000000000
+      internalID: 2031049130035384642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 306
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0a1b22b549787c0800000000000000
+      internalID: -4069120619160952594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 306
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85c030d618d45830800000000000000
+      internalID: 4059106756661396879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 325
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82f46de7603e3d00800000000000000
+      internalID: 954253393971704462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 325
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7271a547a6aacc970800000000000000
+      internalID: 8776577148033570599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 306
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f1a0f09daa99520800000000000000
+      internalID: 2709384500077010689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 306
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e34e83b5fc2da170800000000000000
+      internalID: 8191252731047855080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 306
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dfc9e3b4aa8ac00800000000000000
+      internalID: 912166164692270415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 306
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3107d4496d4af830800000000000000
+      internalID: 4105679124823474494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 306
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaede6f21694de2f0800000000000000
+      internalID: -942016065294115158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 250
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15c6f980bc1807c0800000000000000
+      internalID: -4104999515793734369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 250
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c5399796b7569d0800000000000000
+      internalID: -2781681501889930203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 224
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f963120752d0960800000000000000
+      internalID: 7569747712203464529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 225
+        width: 20
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4e801ee16145d90800000000000000
+      internalID: -7110033589830884126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 225
+        width: 24
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4f8fc6d819446a0800000000000000
+      internalID: -6465883128392518428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_24
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 262
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.51695657, y: 0.40956524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91885f01f6ff634a0800000000000000
+      internalID: -6613818150256015335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 262
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4547831, y: 0.38695678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3641f01d8dd9a4ac0800000000000000
+      internalID: -3870107375225596829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 226
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704a8b4600e306940800000000000000
+      internalID: 5287294133943706631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_27
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 226
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77895e6586a25cf50800000000000000
+      internalID: 6900968631638005879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_28
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 227
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00085c6708b4175e0800000000000000
+      internalID: -1913665351535198208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_29
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 227
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b903ec661ad59ce80800000000000000
+      internalID: -8157886302209036133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_30
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 226
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede7c49d65d1a4690800000000000000
+      internalID: -7617243560893710626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_31
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 226
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd853b2bb0d1d310800000000000000
+      internalID: 1428152059155549688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 189
+        width: 154
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e6accf90b666ec0800000000000000
+      internalID: -3574051563631907196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 189
+        width: 133
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829dc5df89c0b294090029a661a2ce33
+      internalID: 225020374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_34
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 262
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.48869628, y: 0.38695678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4014a01ff0ab9044aa83e613112a4f7
+      internalID: 915099355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 263
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4830434, y: 0.34739277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae63b3b38d822546b1ad10a64ff918f
+      internalID: -2101472513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 265
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.55086976, y: 0.30308682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4819fbf83a7664980f08b4f15ef4f4
+      internalID: 1024031845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_37
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 264
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4830434, y: 0.31913146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cccebbd873fce747b1e207cf7a9ab79
+      internalID: 487636700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eacf570bdb089b4f866ca78afb044e1
+      internalID: 986262886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 354
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5603bfe0f7bfaf1468a46965abf958c4
+      internalID: -2144657030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_40
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 377
+        width: 18
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5893d7c27dd9a6a4f9373fdcfb93a5d3
+      internalID: -1410018510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_41
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 346
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844a9a41eac917b4bb1339bfe76c7484
+      internalID: 1048003215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_knight_42
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 306
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a169d43ef4ae31b47a237f66362e13c2
+      internalID: 860930469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d8d6b2d1c457c1141a6c9bb89164bcb9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boss_knight_0: 1664987915449716281
+      Boss_knight_1: -6006125769021747596
+      Boss_knight_10: -4069120619160952594
+      Boss_knight_11: 4059106756661396879
+      Boss_knight_12: 954253393971704462
+      Boss_knight_13: 8776577148033570599
+      Boss_knight_14: 2709384500077010689
+      Boss_knight_15: 8191252731047855080
+      Boss_knight_16: 912166164692270415
+      Boss_knight_17: 4105679124823474494
+      Boss_knight_18: -942016065294115158
+      Boss_knight_19: -4104999515793734369
+      Boss_knight_2: 5608482036033984925
+      Boss_knight_20: -2781681501889930203
+      Boss_knight_21: 7569747712203464529
+      Boss_knight_22: -7110033589830884126
+      Boss_knight_23: -6465883128392518428
+      Boss_knight_24: -6613818150256015335
+      Boss_knight_25: -3870107375225596829
+      Boss_knight_26: 5287294133943706631
+      Boss_knight_27: 6900968631638005879
+      Boss_knight_28: -1913665351535198208
+      Boss_knight_29: -8157886302209036133
+      Boss_knight_3: 1213371517202634040
+      Boss_knight_30: -7617243560893710626
+      Boss_knight_31: 1428152059155549688
+      Boss_knight_32: -3574051563631907196
+      Boss_knight_33: 225020374
+      Boss_knight_34: 915099355
+      Boss_knight_35: -2101472513
+      Boss_knight_36: 1024031845
+      Boss_knight_37: 487636700
+      Boss_knight_38: 986262886
+      Boss_knight_39: -2144657030
+      Boss_knight_4: -3294914105411268521
+      Boss_knight_40: -1410018510
+      Boss_knight_41: 1048003215
+      Boss_knight_42: 860930469
+      Boss_knight_5: 5261240805179131949
+      Boss_knight_6: -8829106229379633556
+      Boss_knight_7: -2915917834305146693
+      Boss_knight_8: 3948342878361580196
+      Boss_knight_9: 2031049130035384642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4236 @@
+fileFormatVersion: 2
+guid: 2ff21611877113a4a8068c4ee89b08fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5512599139721959478
+    second: Vall_0
+  - first:
+      213: -8135516170960689902
+    second: Vall_1
+  - first:
+      213: -1124753278993502652
+    second: Vall_2
+  - first:
+      213: 2766630998540754035
+    second: Vall_3
+  - first:
+      213: -598269072284837242
+    second: Vall_4
+  - first:
+      213: -1087907193399152509
+    second: Vall_5
+  - first:
+      213: 6524472083398588320
+    second: Vall_6
+  - first:
+      213: 6868736195809640596
+    second: Vall_7
+  - first:
+      213: 7869169689446526704
+    second: Vall_8
+  - first:
+      213: 3581751015069692349
+    second: Vall_9
+  - first:
+      213: -7590719210334580403
+    second: Vall_10
+  - first:
+      213: 8373935033114887637
+    second: Vall_11
+  - first:
+      213: 2521347331457277273
+    second: Vall_12
+  - first:
+      213: -7373875525596016733
+    second: Vall_13
+  - first:
+      213: 7070756241514521840
+    second: Vall_14
+  - first:
+      213: -5283821535910260699
+    second: Vall_15
+  - first:
+      213: 2922990155259766105
+    second: Vall_16
+  - first:
+      213: 5359155755011758160
+    second: Vall_17
+  - first:
+      213: -6517653331275867482
+    second: Vall_18
+  - first:
+      213: 7025903481422092019
+    second: Vall_19
+  - first:
+      213: -8062750547268625216
+    second: Vall_20
+  - first:
+      213: -5191540925575863351
+    second: Vall_21
+  - first:
+      213: -3188559144306063381
+    second: Vall_22
+  - first:
+      213: -9000286222768187991
+    second: Vall_23
+  - first:
+      213: 1121119995592244208
+    second: Vall_24
+  - first:
+      213: -1478623894114027026
+    second: Vall_25
+  - first:
+      213: 3104906909633495416
+    second: Vall_26
+  - first:
+      213: 54369314828173458
+    second: Vall_27
+  - first:
+      213: 3144211251843237969
+    second: Vall_28
+  - first:
+      213: 1299311472162767616
+    second: Vall_29
+  - first:
+      213: -4070882603778610644
+    second: Vall_30
+  - first:
+      213: 3411251763253219985
+    second: Vall_31
+  - first:
+      213: -5682003138519155829
+    second: Vall_32
+  - first:
+      213: -8360938797986407757
+    second: Vall_33
+  - first:
+      213: 2439834449071710633
+    second: Vall_34
+  - first:
+      213: 9138119548758279237
+    second: Vall_35
+  - first:
+      213: 6138718015152739309
+    second: Vall_36
+  - first:
+      213: -1294040515772431460
+    second: Vall_37
+  - first:
+      213: 3677667027289570076
+    second: Vall_38
+  - first:
+      213: 5458653154004526563
+    second: Vall_39
+  - first:
+      213: 8856901310599248738
+    second: Vall_40
+  - first:
+      213: -1702486435682204394
+    second: Vall_41
+  - first:
+      213: -3925435819758378393
+    second: Vall_42
+  - first:
+      213: -3779865818525041956
+    second: Vall_43
+  - first:
+      213: 3808547193662720524
+    second: Vall_44
+  - first:
+      213: 6436183516328940663
+    second: Vall_45
+  - first:
+      213: 4313406267861282253
+    second: Vall_46
+  - first:
+      213: -4149072574750938064
+    second: Vall_47
+  - first:
+      213: -436863907402503468
+    second: Vall_48
+  - first:
+      213: 5353537515034233654
+    second: Vall_49
+  - first:
+      213: -3164701355796201131
+    second: Vall_50
+  - first:
+      213: 5499946607253903569
+    second: Vall_51
+  - first:
+      213: -5484424740745878395
+    second: Vall_52
+  - first:
+      213: 1605223424477217488
+    second: Vall_53
+  - first:
+      213: 3029112621623144138
+    second: Vall_54
+  - first:
+      213: 7360710799441047781
+    second: Vall_55
+  - first:
+      213: 6525883028015370028
+    second: Vall_56
+  - first:
+      213: -5205648009079721276
+    second: Vall_57
+  - first:
+      213: -7820846218020050085
+    second: Vall_58
+  - first:
+      213: -359816128986657789
+    second: Vall_59
+  - first:
+      213: 716785660085205786
+    second: Vall_60
+  - first:
+      213: -8376246194080931680
+    second: Vall_61
+  - first:
+      213: 3292279168973607546
+    second: Vall_62
+  - first:
+      213: -7916889902556527887
+    second: Vall_63
+  - first:
+      213: -3074862629676803377
+    second: Vall_64
+  - first:
+      213: 5541812578634934939
+    second: Vall_65
+  - first:
+      213: 2375568590269061972
+    second: Vall_66
+  - first:
+      213: 6525268303527231098
+    second: Vall_67
+  - first:
+      213: -8810762370580955069
+    second: Vall_68
+  - first:
+      213: 976558224734578103
+    second: Vall_69
+  - first:
+      213: 2235926150498881701
+    second: Vall_70
+  - first:
+      213: -5684836372809856332
+    second: Vall_71
+  - first:
+      213: -1264085459831368145
+    second: Vall_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vall_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 730
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7afb71a405f73b0800000000000000
+      internalID: -5512599139721959478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 730
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21521757527d81f80800000000000000
+      internalID: -8135516170960689902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 730
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ee2a91ad21460f0800000000000000
+      internalID: -1124753278993502652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 735
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c1b942c3c056620800000000000000
+      internalID: 2766630998540754035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 731
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a1c52d27582b7f0800000000000000
+      internalID: -598269072284837242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 730
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380f9dceb2af6e0f0800000000000000
+      internalID: -1087907193399152509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 744
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7fcedaac49b8a50800000000000000
+      internalID: 6524472083398588320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 744
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4900a1f8d27a25f50800000000000000
+      internalID: 6868736195809640596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 744
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe2bb0d328e43d60800000000000000
+      internalID: 7869169689446526704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 686
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1bf1f329fe4b130800000000000000
+      internalID: 3581751015069692349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 687
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d411646781958a690800000000000000
+      internalID: -7590719210334580403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 686
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5030dab81363470800000000000000
+      internalID: 8373935033114887637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 688
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dd3ee0a00adf220800000000000000
+      internalID: 2521347331457277273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 686
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af07e6274bbaa990800000000000000
+      internalID: -7373875525596016733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 686
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f469d4d65f502260800000000000000
+      internalID: 7070756241514521840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 686
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5209287de481ca6b0800000000000000
+      internalID: -5283821535910260699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 699
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955e83e3f0c809820800000000000000
+      internalID: 2922990155259766105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_17
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 699
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0585771e3cb8f5a40800000000000000
+      internalID: 5359155755011758160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 698
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa1924c3d4ac85a0800000000000000
+      internalID: -6517653331275867482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 642
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f61854ddf5018160800000000000000
+      internalID: 7025903481422092019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 643
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc9775781b5b1090800000000000000
+      internalID: -8062750547268625216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 644
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3e52eb801f3f7b0800000000000000
+      internalID: -5191540925575863351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 642
+        width: 178
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7405a1a56ffb3d0800000000000000
+      internalID: -3188559144306063381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 661
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a55f0fad5f881380800000000000000
+      internalID: -9000286222768187991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 661
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbfcdf22b40f8f00800000000000000
+      internalID: 1121119995592244208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 597
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9bde2076fda7be0800000000000000
+      internalID: -1478623894114027026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 598
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8714c514268d61b20800000000000000
+      internalID: 3104906909633495416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_27
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 601
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290c3019a9821c000800000000000000
+      internalID: 54369314828173458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 599
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15807ec897b72ab20800000000000000
+      internalID: 3144211251843237969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 499
+        width: 119
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0030ade56e4180210800000000000000
+      internalID: 1299311472162767616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_30
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 577
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a657f17d15187c0800000000000000
+      internalID: -4070882603778610644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 577
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1921224b763375f20800000000000000
+      internalID: 3411251763253219985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 499
+        width: 40
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b39e300487521b0800000000000000
+      internalID: -5682003138519155829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_33
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 609
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba1d3d167af7fb80800000000000000
+      internalID: -8360938797986407757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_34
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 609
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a12eaf21880cd120800000000000000
+      internalID: 2439834449071710633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_35
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 609
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5444ac2505f11de70800000000000000
+      internalID: 9138119548758279237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 570
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3587da28b113550800000000000000
+      internalID: 6138718015152739309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 571
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93cb6cc105aa0ee0800000000000000
+      internalID: -1294040515772431460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 574
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf2cb1da2b90330800000000000000
+      internalID: 3677667027289570076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 572
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e561845f1801cb40800000000000000
+      internalID: 5458653154004526563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 545
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bb5fce0d80aea70800000000000000
+      internalID: 8856901310599248738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 546
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615cd3e5b9d8f58e0800000000000000
+      internalID: -1702486435682204394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 549
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76225b67bec0689c0800000000000000
+      internalID: -3925435819758378393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 547
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda7c2c80183b8bc0800000000000000
+      internalID: -3779865818525041956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_44
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 524
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ac39c7e7daad430800000000000000
+      internalID: 3808547193662720524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 523
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774d208cecae15950800000000000000
+      internalID: 6436183516328940663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_46
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 520
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcda0dfa52c4cdb30800000000000000
+      internalID: 4313406267861282253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 521
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ca7aad9788b66c0800000000000000
+      internalID: -4149072574750938064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 524
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daa5104792ffe9f0800000000000000
+      internalID: -436863907402503468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 522
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bc75371069b4a40800000000000000
+      internalID: 5353537515034233654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 496
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551029b52e8b414d0800000000000000
+      internalID: -3164701355796201131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 497
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8dbf0ac4cb35c40800000000000000
+      internalID: 5499946607253903569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 500
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5846a7a81c863e3b0800000000000000
+      internalID: -5484424740745878395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 498
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2c9112336e64610800000000000000
+      internalID: 1605223424477217488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_54
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 451
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aceef7461e1990a20800000000000000
+      internalID: 3029112621623144138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_55
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 365
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0b01f297f762660800000000000000
+      internalID: 7360710799441047781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 420
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f4b92d908909a50800000000000000
+      internalID: 6525883028015370028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_57
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 420
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2751967b2d1c7b0800000000000000
+      internalID: -5205648009079721276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_58
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 110
+        width: 195
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b25f32dc5c67390800000000000000
+      internalID: -7820846218020050085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_59
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 674
+        width: 107
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c4b47132da10bf0800000000000000
+      internalID: -359816128986657789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_60
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 108
+        width: 191
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bf87992c882f900800000000000000
+      internalID: 716785660085205786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 641
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0a69a377891cb80800000000000000
+      internalID: -8376246194080931680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_62
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4
+        width: 103
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a721710067680bd20800000000000000
+      internalID: 3292279168973607546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_63
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 8
+        width: 184
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2cd30449e812290800000000000000
+      internalID: -7916889902556527887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_64
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 388
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca9df8cab4e355d0800000000000000
+      internalID: -3074862629676803377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_65
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 388
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aa351bd2978ec40800000000000000
+      internalID: 5541812578634934939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_66
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 388
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b109aeb07b7f020800000000000000
+      internalID: 2375568590269061972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_67
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 385
+        width: 136
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e3bdf13f86e8a50800000000000000
+      internalID: 6525268303527231098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 386
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340c42d2e42e9b580800000000000000
+      internalID: -8810762370580955069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_69
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 8
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b56ac7088e6d8d00800000000000000
+      internalID: 976558224734578103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_70
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 8
+        width: 112
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a01e78ccfa970f10800000000000000
+      internalID: 2235926150498881701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_71
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 8
+        width: 115
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bac27040776b11b0800000000000000
+      internalID: -5684836372809856332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_72
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 8
+        width: 96
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26d301c8f0157ee0800000000000000
+      internalID: -1264085459831368145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 761
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb56f43bdc0758742bdba69b973e90fe
+      internalID: 2034195005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_74
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 761
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db1144deb60daf498ec5bd64d3e153e
+      internalID: -921485142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_75
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 761
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5c087a01bf2dc43a2188faf7905db8
+      internalID: -1206424834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_76
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 731
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907c75807f0061e4c95d9036c17d9890
+      internalID: -699710766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_77
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 731
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14534efc0f0fe64db1de500cbc4cf5c
+      internalID: -189175106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 740
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29de62a2ac1f9e4d86dcdb90646b47a
+      internalID: 1435479625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 740
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e5be7f3702776489ae54e48e951115
+      internalID: -1785040383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 731
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0640389699d698245a78fd07c406dd73
+      internalID: -77217972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 751
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fb69ae217f12346b456162bbff414f
+      internalID: -2011054187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 740
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c087ddad5c1a0b43a0d51b298160804
+      internalID: 1145291043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 751
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3578ce1a94ac4f54e96ec3e2fc39536b
+      internalID: 632891863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_84
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 740
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4176deb5cb38657449394a385c8ee66c
+      internalID: 176837017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_85
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 740
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87039810ec7d22843b910785b9f8e534
+      internalID: -1088270958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_86
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 761
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6385dcd2dec33e84f98e6149d292a1b5
+      internalID: -1927877595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_87
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 731
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac32c3125c091e54090c319250e85a98
+      internalID: 1198664138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_88
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 765
+        width: 41
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aac95dda16eb864985c5baed2b1dfa8
+      internalID: -1116874633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_89
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 730
+        width: 41
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae545644bdcebb4428b6e3c33199a981
+      internalID: -975714520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_90
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 736
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d0366643844ba4ca2441b9cd42b58a
+      internalID: -2003970043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_91
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 736
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be827ad9a266c624d9ee5a9dbf738664
+      internalID: 1654507287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_92
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 736
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96919ed0c76c334da6df2685d4f6281
+      internalID: 31113607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_93
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 764
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af10c809bb8126e4cab508c4cf8fa6ff
+      internalID: -209577735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_94
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 764
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51e63f446447684583b2e0c9f1b4883
+      internalID: -998309771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_95
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 731
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea342f5f758b6c4294333c0ba303288
+      internalID: -486854487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 731
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4864459aea22aed4da449ceda86bbb06
+      internalID: -2056517127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_97
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 756
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1ecaa2a961cd046ba70aae5147d0bb
+      internalID: 55508691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_98
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 737
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6669dece6580a49bd124cbcf125908
+      internalID: -334852972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_99
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 745
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1435268d875bd4d91ba7346c20d2c3
+      internalID: 1173063996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_100
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 756
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444939a637240bb4392bdb61f22046b5
+      internalID: -1417920377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_101
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 737
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d180424d2a9fe1a45a0d68f027f0707e
+      internalID: -1855610624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_102
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 745
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2643e76359e09e447ad44902a730aafc
+      internalID: 1062608846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 764
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185565c8c47e10c4a8a23201141ccba7
+      internalID: -183759014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_104
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 731
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ac4a2731474094db07db32e55a0996
+      internalID: 232750435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_105
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 737
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc9c408fcfbfd748bef79c8d9e7af69
+      internalID: 1682122076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_106
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 667
+        width: 178
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f1dd9d77199834c9b40510db5ebb8a
+      internalID: -1536224770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_107
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 642
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ac933065928364d96e0d76903f3355
+      internalID: -845611751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_108
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 642
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949b214726bdd854285713f75202b5c9
+      internalID: -781642512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_109
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 642
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a878ded876b7a664d9d412ece866d3e8
+      internalID: -1803046270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_110
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 642
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda8e85e19b4e54489ea8cb19ef0f5d7
+      internalID: -37113415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_111
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 642
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfb4bfdd7186984eaeccfc5ce7b94e6
+      internalID: 1257612064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_112
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 642
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccfd1db3bef09d48adf65f1ad91a392
+      internalID: -1716195724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_113
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 642
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb0b1228991bdd4b9ac635ba61b5355
+      internalID: -631215309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_114
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 642
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f317ef40d4f9c44caa2dbaffdd6461e
+      internalID: 500542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_115
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 575
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d6c3c6c45a4e546b1dbca0c0c9a368
+      internalID: 347242928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_116
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 575
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ffeaeeb1c017b458b36bac8617c51a
+      internalID: 454771164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_117
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 575
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d619c5d6fc2cab44faa93674be5be946
+      internalID: 1050879814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_118
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 499
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a9766aa79bb9345bc955fe3f6b21c7
+      internalID: 138570159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_119
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 499
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f826b5ab34a053e4e82e77287e6982bd
+      internalID: -1964435375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_120
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 499
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51371921a49ee3d4f8583c54cd12630f
+      internalID: -1770822388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_121
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 538
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6403b5b67d615a14c9c57198fca98c92
+      internalID: 884123530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_122
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 538
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39790cda6f7a9614a9d600f1a8dcdaca
+      internalID: 1219702561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_123
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 538
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0a1cbe9bce39b42924c08772926de1
+      internalID: -1082905433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_124
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 442
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1949071bf75b3df48909311743882495
+      internalID: 417753870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_125
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 442
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b85df64ed5a9643bbca5bf3ea0d47e
+      internalID: -248562966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_126
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 367
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5315870fcb03c8741ac77a486e86651b
+      internalID: -1094041202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_127
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 367
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f12c0cdfec6485459def666b18106fd
+      internalID: -635769187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_128
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 405
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf4ca5979403614ca8fcdda53f14663
+      internalID: -1156933486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_129
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 442
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e4d8aa3788de044b3ec17274bee01f
+      internalID: -299317995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_130
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 405
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b836f42a484fb014ba4d96b8c96a13b7
+      internalID: 1766662088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_131
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 367
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9bff0a7553d6148a6c73b3e247361d
+      internalID: -1932803943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_132
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 459
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b97f987790bbc547b1402832f9599e8
+      internalID: -1132051155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_133
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 459
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142f5a30fec23fd49b3a603164f28b23
+      internalID: -583589151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_134
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 420
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5da817b7a776704fa8d1596a87bbb0d
+      internalID: 1377499818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_135
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 420
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb8a876d3409664781d5dbd1092086b
+      internalID: 1224646240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_136
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 584
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7be302c62e8874db20d86b23e1d37f
+      internalID: 1550978658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_137
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 499
+        width: 31
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca24b9b30cc8cb49ad98b677fb881a9
+      internalID: -1089326678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_138
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 300
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75e2f7c10939344687203f671cd1763
+      internalID: 625315214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_139
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 300
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8d0f123a8e05247b3cd76e0a1bf4f1
+      internalID: 463564538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_140
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 233
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe297d1bb525574580b0c7c5a20b15e
+      internalID: -537281000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_141
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 233
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca23b21d09b39404e9695b0292040340
+      internalID: -617957357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_142
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 307
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f97222eec505ae499bb240e4e46a6ef
+      internalID: 1480888986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_143
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 307
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f7a32c2c9b63d4cab79df322be3500
+      internalID: 637287364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_144
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 232
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2aecf90dec96f458a5650598853c80
+      internalID: -1355961518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_145
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 232
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f83b8c46d3455349a978d64a57c709b
+      internalID: -168032165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_146
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 271
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67abbb387e63acf4ba7bbac25f6a7f2d
+      internalID: -253874333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_147
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 232
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762a10c8741ea534a8cd5c69cb7e972d
+      internalID: 1478287666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_148
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 307
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07aa4144c7e357479b2c10dac5394a0
+      internalID: -1725573645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_149
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 271
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52befb98bd1b0ba4e9f323c47918e392
+      internalID: 202767979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_150
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 307
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ad8cabfeb40a94583fef9c7a5349e4
+      internalID: 176552778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_151
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 491
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf25075d3ce07734ca06f5158aadb07a
+      internalID: 1993732363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_152
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 380
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936391905ef04504a80a5942e6c70fd2
+      internalID: -822885652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_153
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af286b58dd2847e4d90fc1e734d45041
+      internalID: -207919899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_154
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 156
+        width: 183
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d38555f8d73348bf9fbd0aa56bb6e
+      internalID: 1268122742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_155
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 108
+        width: 112
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05418864a5eca1e4db6e2abdffe5042c
+      internalID: -802380788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_156
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 97
+        width: 115
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6ceac21a0ecc54eb8d703def915b2f
+      internalID: 29742537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_157
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 45
+        width: 96
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0cc81967a1cc143bc2eb348fdff087
+      internalID: 38029429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_158
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 537
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2e88bdbb91b3543a601b2af95a6324
+      internalID: -2004452366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_159
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 537
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d16fb8856c483047ac0bde49361f732
+      internalID: 505801537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_160
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 537
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152addfdaa250bd43a354462ff03f0d3
+      internalID: -427886537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_161
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 537
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7eb98c19f140142a8d4279d0e5c0c9
+      internalID: -1788101588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_162
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 537
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f07d014a55a8d47a8e77c9e1230f1c
+      internalID: -700919064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_163
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 537
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63487bdcd1d34834aab2a30aaade4ae9
+      internalID: -765802589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_164
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 537
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087b06d8b9bbd724196c1706278cdebf
+      internalID: -1117525628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_165
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 537
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c87d4fded8f434c850c84db64b5cc7
+      internalID: -1368418808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_166
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 475
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b45e819f4006142b8dfc146b0d14c6
+      internalID: 945911515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_167
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 475
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2152bd64fcc50dc4bab667922db53847
+      internalID: -885319536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vall_168
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 475
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7073d447b92684fae578f4293870c5
+      internalID: 260102714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 89115b7b1d0637c459fbc2d954e54eef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vall_0: -5512599139721959478
+      Vall_1: -8135516170960689902
+      Vall_10: -7590719210334580403
+      Vall_100: -1417920377
+      Vall_101: -1855610624
+      Vall_102: 1062608846
+      Vall_103: -183759014
+      Vall_104: 232750435
+      Vall_105: 1682122076
+      Vall_106: -1536224770
+      Vall_107: -845611751
+      Vall_108: -781642512
+      Vall_109: -1803046270
+      Vall_11: 8373935033114887637
+      Vall_110: -37113415
+      Vall_111: 1257612064
+      Vall_112: -1716195724
+      Vall_113: -631215309
+      Vall_114: 500542
+      Vall_115: 347242928
+      Vall_116: 454771164
+      Vall_117: 1050879814
+      Vall_118: 138570159
+      Vall_119: -1964435375
+      Vall_12: 2521347331457277273
+      Vall_120: -1770822388
+      Vall_121: 884123530
+      Vall_122: 1219702561
+      Vall_123: -1082905433
+      Vall_124: 417753870
+      Vall_125: -248562966
+      Vall_126: -1094041202
+      Vall_127: -635769187
+      Vall_128: -1156933486
+      Vall_129: -299317995
+      Vall_13: -7373875525596016733
+      Vall_130: 1766662088
+      Vall_131: -1932803943
+      Vall_132: -1132051155
+      Vall_133: -583589151
+      Vall_134: 1377499818
+      Vall_135: 1224646240
+      Vall_136: 1550978658
+      Vall_137: -1089326678
+      Vall_138: 625315214
+      Vall_139: 463564538
+      Vall_14: 7070756241514521840
+      Vall_140: -537281000
+      Vall_141: -617957357
+      Vall_142: 1480888986
+      Vall_143: 637287364
+      Vall_144: -1355961518
+      Vall_145: -168032165
+      Vall_146: -253874333
+      Vall_147: 1478287666
+      Vall_148: -1725573645
+      Vall_149: 202767979
+      Vall_15: -5283821535910260699
+      Vall_150: 176552778
+      Vall_151: 1993732363
+      Vall_152: -822885652
+      Vall_153: -207919899
+      Vall_154: 1268122742
+      Vall_155: -802380788
+      Vall_156: 29742537
+      Vall_157: 38029429
+      Vall_158: -2004452366
+      Vall_159: 505801537
+      Vall_16: 2922990155259766105
+      Vall_160: -427886537
+      Vall_161: -1788101588
+      Vall_162: -700919064
+      Vall_163: -765802589
+      Vall_164: -1117525628
+      Vall_165: -1368418808
+      Vall_166: 945911515
+      Vall_167: -885319536
+      Vall_168: 260102714
+      Vall_17: 5359155755011758160
+      Vall_18: -6517653331275867482
+      Vall_19: 7025903481422092019
+      Vall_2: -1124753278993502652
+      Vall_20: -8062750547268625216
+      Vall_21: -5191540925575863351
+      Vall_22: -3188559144306063381
+      Vall_23: -9000286222768187991
+      Vall_24: 1121119995592244208
+      Vall_25: -1478623894114027026
+      Vall_26: 3104906909633495416
+      Vall_27: 54369314828173458
+      Vall_28: 3144211251843237969
+      Vall_29: 1299311472162767616
+      Vall_3: 2766630998540754035
+      Vall_30: -4070882603778610644
+      Vall_31: 3411251763253219985
+      Vall_32: -5682003138519155829
+      Vall_33: -8360938797986407757
+      Vall_34: 2439834449071710633
+      Vall_35: 9138119548758279237
+      Vall_36: 6138718015152739309
+      Vall_37: -1294040515772431460
+      Vall_38: 3677667027289570076
+      Vall_39: 5458653154004526563
+      Vall_4: -598269072284837242
+      Vall_40: 8856901310599248738
+      Vall_41: -1702486435682204394
+      Vall_42: -3925435819758378393
+      Vall_43: -3779865818525041956
+      Vall_44: 3808547193662720524
+      Vall_45: 6436183516328940663
+      Vall_46: 4313406267861282253
+      Vall_47: -4149072574750938064
+      Vall_48: -436863907402503468
+      Vall_49: 5353537515034233654
+      Vall_5: -1087907193399152509
+      Vall_50: -3164701355796201131
+      Vall_51: 5499946607253903569
+      Vall_52: -5484424740745878395
+      Vall_53: 1605223424477217488
+      Vall_54: 3029112621623144138
+      Vall_55: 7360710799441047781
+      Vall_56: 6525883028015370028
+      Vall_57: -5205648009079721276
+      Vall_58: -7820846218020050085
+      Vall_59: -359816128986657789
+      Vall_6: 6524472083398588320
+      Vall_60: 716785660085205786
+      Vall_61: -8376246194080931680
+      Vall_62: 3292279168973607546
+      Vall_63: -7916889902556527887
+      Vall_64: -3074862629676803377
+      Vall_65: 5541812578634934939
+      Vall_66: 2375568590269061972
+      Vall_67: 6525268303527231098
+      Vall_68: -8810762370580955069
+      Vall_69: 976558224734578103
+      Vall_7: 6868736195809640596
+      Vall_70: 2235926150498881701
+      Vall_71: -5684836372809856332
+      Vall_72: -1264085459831368145
+      Vall_73: 2034195005
+      Vall_74: -921485142
+      Vall_75: -1206424834
+      Vall_76: -699710766
+      Vall_77: -189175106
+      Vall_78: 1435479625
+      Vall_79: -1785040383
+      Vall_8: 7869169689446526704
+      Vall_80: -77217972
+      Vall_81: -2011054187
+      Vall_82: 1145291043
+      Vall_83: 632891863
+      Vall_84: 176837017
+      Vall_85: -1088270958
+      Vall_86: -1927877595
+      Vall_87: 1198664138
+      Vall_88: -1116874633
+      Vall_89: -975714520
+      Vall_9: 3581751015069692349
+      Vall_90: -2003970043
+      Vall_91: 1654507287
+      Vall_92: 31113607
+      Vall_93: -209577735
+      Vall_94: -998309771
+      Vall_95: -486854487
+      Vall_96: -2056517127
+      Vall_97: 55508691
+      Vall_98: -334852972
+      Vall_99: 1173063996
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
